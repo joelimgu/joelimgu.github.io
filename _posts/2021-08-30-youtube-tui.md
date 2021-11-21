@@ -15,7 +15,7 @@ It enables you to browse YouTube and watch videos using a tui and thus not needi
 
 Here is a demonstration of how it works:
 <video controls width="95%">
-    <source src="{{site.url}}/assets/videos/youtube_tui_example.mp4"
+    <source src="{{ site.url }}/assets/videos/youtube_tui_example.mp4"
             type="video/mp4">
 </video>
 
