@@ -11,6 +11,8 @@ domain_name: "http://joelimgu.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
+permalink: /:collection/:day/:month/:year/:title
+
 # Details for the RSS feed generator
 url: ""
 author: "Joel"
