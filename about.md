@@ -3,4 +3,5 @@ layout: page
 title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+# Hello
+I'm Joel a CS student in France. 

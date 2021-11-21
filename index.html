@@ -17,9 +17,11 @@ about: 'about.html'
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+                {% if site.description %} {{ site.description }} {% endif %}
             </h2>
+            <p>
+                {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+            </p>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
