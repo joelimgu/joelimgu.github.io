@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Home
-cover: false
+cover: true
 about: 'about.html'
 contact: 'contact.html'
 ---
 
-<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+<header class="main-header {% if page.cover %}" style="background-image: linear-gradient(to bottom right, #1e1e1e, #3e3e3e) {%else%}no-cover{% endif %}">
     <nav class="main-nav overlay clearfix">
             {% if page.logo %}
                 <a class="blog-logo" href="{{ site.baseurl }}">
