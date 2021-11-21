@@ -16,8 +16,8 @@
     9.  Footer
     10. Media Queries (Tablet)
     11. Media Queries (Mobile)
-    12. Animations
-
+    12. Search Styles
+    13. Animations
 */
 
 /* ==========================================================================
@@ -1712,9 +1712,8 @@ body:not(.post-template) .post-title {
 
 }
 
-
 /* ==========================================================================
-   12. Animations
+   13. Animations
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
