@@ -12,7 +12,7 @@ That's why for example multi-threading and most std features were not included.
 Other's like lifetimes were excluded for simplicity as the objective was to introduce the language in less than 3h.
 
 ### Index
-- Qu'est-ce  que c'est Rust et pourquoi on utilise ?
+- Qu'est-ce que c'est Rust et pourquoi on utilise ?
 - Cargo & Hello World
 - Concepts communs de la programmation
 - The ownership model
