@@ -33,3 +33,12 @@ Other's like lifetimes were excluded for simplicity as the objective was to intr
 [Presentation - powerpoint]({{site.url}}/assets/documents/Presentation_Rust.pptx)
 
 [Presentation - PDF]({{site.url}}/assets/documents/Presentation_Rust.pdf)
+
+[Rust cheat sheet](https://letsgetrusty.com/wp-content/uploads/2021/10/LGR-Cheat-Sheet.pdf)
+
+### Rust book ( The real bible )
+This presentation is heavily based on the book, with adapted order and content:
+
+[🦀 Bible ](https://doc.rust-lang.org/stable/book/)
+
+
