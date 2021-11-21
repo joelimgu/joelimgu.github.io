@@ -1,6 +1,7 @@
 
 # What's this
-This is my personal site. Feel free to take a look.
+This is my personal site. Feel free to take a look:
+https://joelimgu.github.io/
 
 
 
