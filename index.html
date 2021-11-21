@@ -3,6 +3,7 @@ layout: default
 title: Home
 cover: false
 about: 'about.html'
+contact: 'contact.html'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -21,6 +22,8 @@ about: 'about.html'
             </h2>
             <p>
                 {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+                 |
+                {% if page.contact %} <a href='{{page.contact | relative_url}}'> Contact </a> {% endif %}
             </p>
         </div>
     </div>
