@@ -5,7 +5,7 @@ date:   2021-11-21
 categories: [Rust, ClubRobot, Event]
 ---
 
-This is a recap page for the introduction to Rust presentation I did for the Robotics [Club at INSA toulouse](https://clubrobotinsat.github.io/).
+This is a recap page for the introduction to Rust presentation I did for the [Robotics Club of INSA Toulouse](https://clubrobotinsat.github.io/).
 
 Here is the summary of the points treated, keep in mind those are cherry-picked in the goal of coding embedded systems in rust.
 That's why for example multi-threading and most std features were not included. 
