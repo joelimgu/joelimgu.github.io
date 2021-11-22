@@ -3,7 +3,8 @@ layout: page
 title: Search
 ---
 
-<div style="display: flex; place-content: start center; width: 100%; min-height: 50vh; background-image: linear-gradient(to bottom right, #e1e1e1, #c1c1c1)">
+<div style="display: flex; place-content: start center; width: 100%; min-height: 50vh;
+background-image: linear-gradient(to bottom right, #e1e1e1, #c1c1c1); border-radius: 10px">
     <!-- Html Elements for Search -->
     <div id="search-container" style="width: 90%; margin-top: 4rem;">
         <input type="text" id="search-input" placeholder="search..." style="width: 100%; height: 5rem">
