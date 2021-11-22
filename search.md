@@ -13,9 +13,14 @@ background-image: linear-gradient(to bottom right, #e1e1e1, #c1c1c1); border-rad
     </div>
     <!-- Script pointing to search-script.js -->
     <script src="/assets/js/search.js" type="text/javascript"></script>
-
+    
     <!-- Configuration -->
     <script>
+        document.getElementById("search-input").addEventListener("keyup", (e) => {
+            if (e.code === "Escape") {
+                document.getElementById("search-input").value = "";
+            }
+        }); 
         SimpleJekyllSearch({
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
