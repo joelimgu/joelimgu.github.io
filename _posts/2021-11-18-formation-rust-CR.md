@@ -27,6 +27,10 @@ Other's like lifetimes were excluded for simplicity as the objective was to intr
 - Iterators
 - Closures
 
+### Practice exercice:
+- Code together : [Brute force prime number search](https://github.com/joelimgu/brute_force_prime_search)
+- [Rustlings exercices](https://github.com/rust-lang/rustlings) with a 
+[video explaining most of them](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722) 
 
 ### Documents
 
@@ -42,3 +46,4 @@ This presentation is heavily based on the book, with adapted order and content:
 [🦀 Bible ](https://doc.rust-lang.org/stable/book/)
 
 
+<i>And remember failure is not an Option<T> it's a Result<T,E>
