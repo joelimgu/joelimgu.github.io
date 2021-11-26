@@ -31,3 +31,4 @@ If you are interested in working with me here's my CV:
 If you are not, I don't like talking about myself so here is a photo of a cat:
 
 ![cute cat]({{site.url}}/assets/images/cute_cat.jpg)
+
