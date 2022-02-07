@@ -4,7 +4,7 @@ title: About me
 ---
 
 I'm Joel a CS student in France. I code stuff.
-I code stuff. Currently working as a full-stack developer at [TicTap](https://www.tictap.me/) and
+Currently working as a full-stack developer at [TicTap](https://www.tictap.me/) and
 studying CS at INSA Toulouse in whose [robotics club](https://clubrobotinsat.github.io/) I am part of. Interested in embedded development and
 rustacean 🦀;
 
@@ -25,7 +25,7 @@ But I've coded in some way or another in:
 
 If you are interested in working with me here's my CV:
 
-- [CV 2019]({{site.url}}/assets/documents/CV_Joel_2019.pdf)
+- [CV 2019]({{site.url}}/assets/documents/Joel_Imbergamo_Guasch_FR_2021.pdf)
 
 
 If you are not, I don't like talking about myself so here is a photo of a cat:
